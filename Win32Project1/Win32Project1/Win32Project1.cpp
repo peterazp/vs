@@ -1,6 +1,7 @@
 // Win32Project1.cpp : Defines the entry point for the application.
 //
 //New comment
+//Another comment here: picked up by Polarion?
 #include "stdafx.h"
 #include "Win32Project1.h"
 
