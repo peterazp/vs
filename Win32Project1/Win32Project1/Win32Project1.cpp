@@ -2,6 +2,7 @@
 //
 //New comment
 //Another comment here: picked up by Polarion?
+//This will be part of the Task!!!
 #include "stdafx.h"
 #include "Win32Project1.h"
 
