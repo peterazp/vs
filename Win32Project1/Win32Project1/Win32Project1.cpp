@@ -5,7 +5,7 @@
 //This will be part of the Task!!!
 #include "stdafx.h"
 #include "Win32Project1.h"
-
+// DEVE-76
 #define MAX_LOADSTRING 100
 
 // Global Variables:
