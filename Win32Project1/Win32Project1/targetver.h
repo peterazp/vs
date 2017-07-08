@@ -6,5 +6,6 @@
 // set the _WIN32_WINNT macro to the platform you wish to support before including SDKDDKVer.h.
 // DEVE-77
 //DEVE-77 igen
+//DEVE-77 igen igen
 
 #include <SDKDDKVer.h>
