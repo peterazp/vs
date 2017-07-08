@@ -8,6 +8,8 @@
 // DEVE-76
 #define MAX_LOADSTRING 100
 
+// DEVE-77
+
 // Global Variables:
 HINSTANCE hInst;                                // current instance
 WCHAR szTitle[MAX_LOADSTRING];                  // The title bar text
